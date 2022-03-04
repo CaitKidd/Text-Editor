@@ -1,4 +1,4 @@
-<h1 align="center">Good README Generator👋</h1>
+<h1 align="center">Text Editor</h1>
   
   
 <p align="center">
